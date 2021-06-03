@@ -1,5 +1,3 @@
-# NOAAからのSSTデータのダウンロード
-# 参考url https://hansenjohnson.org/post/sst-in-r/
 
 return_himsst_fname <- function(date){
   # 年月日
